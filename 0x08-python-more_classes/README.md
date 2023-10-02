@@ -1,5 +1,1 @@
-#!/usr/bin/python3
-'''defines a rectangle'''
- class rectangle:
-'''represents a rectangle'''
-pass
+0x08. Python - More Classes and Objects
