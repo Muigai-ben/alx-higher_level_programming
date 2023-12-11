@@ -4,5 +4,5 @@ console.log('No argurment');
 } if(process.argv.lenth === 3); {
 console.log('Argument found');
 } else {
-	console.log('Arguments found');
+console.log('Arguments found');
 }
